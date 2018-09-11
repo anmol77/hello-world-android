@@ -4,7 +4,7 @@ The app greets the user saying Hello from Anmol and allows user to change the te
 such as change in text color and background color.
 
 ### App Walk-through
-<img src="https://drive.google.com/open?id=14cB_5V4mIrF5TgwyGJB_WAmjmb8MmBVs" width=200><br>
+<img src="https://i.imgur.com/8WwC6DF.gif" width=200><br>
 
 ### Required User Stories
 - [X] 1. User sees custom text in a label - Hello from {name}!
